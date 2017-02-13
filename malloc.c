@@ -36,7 +36,7 @@ void DisplayList(struct node *ptrF);
 struct node *ptrFirst = NULL;
 struct node *ptrLast = NULL;
 
-//a main function for final interpretation
+//A main function for final interpretation
 int main()
 {
 	int num,i;
